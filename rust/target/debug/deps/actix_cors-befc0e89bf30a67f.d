@@ -1,0 +1,10 @@
+C:\Users\M S I\Desktop\Projects\todo-rust\rust\target\debug\deps\libactix_cors-befc0e89bf30a67f.rmeta: C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\lib.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\all_or_some.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\builder.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\error.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\inner.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\middleware.rs
+
+C:\Users\M S I\Desktop\Projects\todo-rust\rust\target\debug\deps\actix_cors-befc0e89bf30a67f.d: C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\lib.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\all_or_some.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\builder.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\error.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\inner.rs C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\middleware.rs
+
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\lib.rs:
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\all_or_some.rs:
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\builder.rs:
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\error.rs:
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\inner.rs:
+C:\Users\M\ S\ I\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-cors-0.6.5\src\middleware.rs:
